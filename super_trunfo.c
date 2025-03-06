@@ -46,7 +46,6 @@ int main()
    printf("PIB: %f \n", carta1Pib);
    printf("Número de pontos turisticos: %d \n", carta1PontosTur);
 
-   // Deixo a variável sem valor para receber a nova entrada.
 
    // Informações da CARTA 2
    printf("Vamos digitar os dados da CARTA 2: \n");
